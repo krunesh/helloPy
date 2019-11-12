@@ -1,2 +1,3 @@
 # helloPy
-New test repository
+New test repository.
+Making some changes
